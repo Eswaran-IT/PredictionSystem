@@ -74,10 +74,9 @@ To run the FastAPI server:
 
    ✅ This will start the server on: `http://localhost:8000`.
 
----
 
 🌐 **Swagger UI**: Access interactive API documentation at [http://localhost:8000/docs](http://localhost:8000/docs).
-
+---
 
 ### 🔍 3.4 Testing with Postman
 
